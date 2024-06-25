@@ -1,4 +1,4 @@
-**CommuNet Project**
+# CommuNet
 
 ### Project Overview
 Communet is a web development project that redefines online communities, focusing on specialized groups for products like books, games, and electronics. The platform aims to boost user engagement by offering distinct communities for sharing, buying, and selling products.
